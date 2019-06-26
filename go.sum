@@ -1,0 +1,8 @@
+github.com/DavidEWexler/vqdata v0.0.20 h1:bMWi003+WXtYQcX6VcBm5QhgRsSQ/EbNC5COBwtCQXM=
+github.com/DavidEWexler/vqdata v0.0.20/go.mod h1:6RJVB4X+EBbUWzpDWq3cOOvwSvTfFp5nIQ6bi93uY14=
+github.com/DavidEWexler/vqdata v0.0.25 h1:Q2NJEAhXMLhPqj7vS4XQy1t5Z5kueEt90IC3LA7GDdY=
+github.com/DavidEWexler/vqdata v0.0.25/go.mod h1:6RJVB4X+EBbUWzpDWq3cOOvwSvTfFp5nIQ6bi93uY14=
+github.com/campoy/jsonenums v0.0.0-20180221195324-eec6d38da64e/go.mod h1:Q9wN7HDfRAAFkNeQbMKz9G8lzkS75y2tTzcE/HMNMrc=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+golang.org/x/tools v0.0.0-20181205224935-3576414c54a4/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
